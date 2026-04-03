@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#0a0a0a"/>
+  <!-- Chamfered corner clip (brand angular aesthetic) -->
+  <polygon points="8,0 56,0 64,8 64,56 56,64 8,64 0,56 0,8" fill="#0a0a0a"/>
+  <!-- Blue accent bar bottom-right -->
+  <polygon points="40,64 64,64 64,56 48,56" fill="#2563eb"/>
+  <!-- C&C text -->
+  <text x="32" y="44" font-family="Arial Black, sans-serif" font-size="26" font-weight="900" text-anchor="middle" fill="#ffffff" letter-spacing="-1">C&amp;C</text>
+</svg>
